@@ -15,6 +15,7 @@ it:
       separator: "."
 
     currency:
+      free: "Gratis"
       format:
         format: "%n %u"
         unit: "€"

@@ -122,6 +122,7 @@ fr:
       significant: false
       strip_insignificant_zeros: false
     currency:
+      free: "Gratuit"
       format:
         format: "%n %u"
         unit: "€"

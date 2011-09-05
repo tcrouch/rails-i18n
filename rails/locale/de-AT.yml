@@ -120,6 +120,7 @@ de-AT:
       significant: false
       strip_insignificant_zeros: false
     currency:
+      free: "Kostenlos"
       format:
         unit: '€'
         format: '%u %n'

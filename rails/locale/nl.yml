@@ -89,6 +89,7 @@ nl:
       strip_insignificant_zeros: false
 
     currency:
+      free: "Gratis"
       format:
         format: "%u%n"
         unit: "€"

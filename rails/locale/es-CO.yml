@@ -7,6 +7,7 @@ es-CO:
       format:
         delimiter: ","
     currency:
+      free: "Gratis"
       format:
         format: "%u%n"
         unit: "$"

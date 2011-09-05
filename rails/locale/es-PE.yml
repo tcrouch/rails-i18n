@@ -9,6 +9,7 @@ es-PE:
       format:
         delimiter: ","
     currency:
+      free: "Gratis"
       format: # Nuevos Soles
         format: "%u%n"
         unit: "S./"
